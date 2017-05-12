@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+		<script type="text/javascript" src="add_car_script.js"></script>
+		<script src="notify.js"></script>
+		<title>Add new car</title>
+	</head>
+	
+	<body>
+		<nav class="navbar navbar-default">
+		  <div class="container-fluid">
+		    <div class="navbar-header">
+		      <a class="navbar-brand" href="index.html">CARS</a>
+		    </div>
+		    <ul class="nav navbar-nav">
+		      <li class="active"><a href="index.html">Home</a></li>
+		    </ul>
+		  </div>
+		</nav>
+		
+		<div class="container">
+		  <h1>Add car</h1>
+		  <form class="form-horizontal">
+		  	<div class="form-group">
+		      <label class="control-label col-sm-2" for="id">Id:</label>
+		      <div class="col-sm-10">
+		        <input type="number" class="form-control" id="id" placeholder="Enter the car's id">
+		      </div>
+		    </div>
+		    <div class="form-group">
+		      <label class="control-label col-sm-2" for="brand">Name:</label>
+		      <div class="col-sm-10">
+		        <input type="text" class="form-control" id="name" placeholder="Enter the car's name">
+		      </div>
+		    </div>
+		    <div class="form-group">
+		      <label class="control-label col-sm-2" for="brand">Brand:</label>
+		      <div class="col-sm-10">
+		        <input type="text" class="form-control" id="brand" placeholder="Enter the car's brand">
+		      </div>
+		    </div>
+		    <div class="form-group">
+		      <label class="control-label col-sm-2" for="model">Model:</label>
+		      <div class="col-sm-10">
+		        <input type="text" class="form-control" id="model" placeholder="Enter the model">
+		      </div>
+		    </div>
+		    <div class="form-group">
+		      <label class="control-label col-sm-2" for="hp">HP:</label>
+		      <div class="col-sm-10">
+		        <input type="number" class="form-control" id="hp" placeholder="Enter the horse power">
+		      </div>
+		    </div>
+		    <div class="form-group">
+		      <label class="control-label col-sm-2" for="year">Year:</label>
+		      <div class="col-sm-10">
+		        <input type="date" class="form-control" id="year" placeholder="Enter the year">
+		      </div>
+		    </div>
+		    <div class="form-group">
+		      <div class="col-sm-offset-2 col-sm-10">
+		        <button type="button" id="submitButton" class="btn btn-default">Create</button>
+		      </div>
+		    </div>
+		  </form>
+		</div>
+		
+	</body>
+</html>

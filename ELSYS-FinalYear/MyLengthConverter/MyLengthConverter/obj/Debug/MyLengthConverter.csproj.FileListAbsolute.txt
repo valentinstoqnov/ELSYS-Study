@@ -1,0 +1,9 @@
+C:\Users\valen\OneDrive\Документи\Visual Studio 2015\Projects\MyLengthConverter\MyLengthConverter\bin\Debug\MyLengthConverter.exe.config
+C:\Users\valen\OneDrive\Документи\Visual Studio 2015\Projects\MyLengthConverter\MyLengthConverter\bin\Debug\MyLengthConverter.exe
+C:\Users\valen\OneDrive\Документи\Visual Studio 2015\Projects\MyLengthConverter\MyLengthConverter\bin\Debug\MyLengthConverter.pdb
+C:\Users\valen\OneDrive\Документи\Visual Studio 2015\Projects\MyLengthConverter\MyLengthConverter\obj\Debug\MyLengthConverter.csprojResolveAssemblyReference.cache
+C:\Users\valen\OneDrive\Документи\Visual Studio 2015\Projects\MyLengthConverter\MyLengthConverter\obj\Debug\MyLengthConverter.Form1.resources
+C:\Users\valen\OneDrive\Документи\Visual Studio 2015\Projects\MyLengthConverter\MyLengthConverter\obj\Debug\MyLengthConverter.Properties.Resources.resources
+C:\Users\valen\OneDrive\Документи\Visual Studio 2015\Projects\MyLengthConverter\MyLengthConverter\obj\Debug\MyLengthConverter.csproj.GenerateResource.Cache
+C:\Users\valen\OneDrive\Документи\Visual Studio 2015\Projects\MyLengthConverter\MyLengthConverter\obj\Debug\MyLengthConverter.exe
+C:\Users\valen\OneDrive\Документи\Visual Studio 2015\Projects\MyLengthConverter\MyLengthConverter\obj\Debug\MyLengthConverter.pdb
